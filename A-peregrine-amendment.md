@@ -1,5 +1,7 @@
 # The Peregrine Amendment
 
+## Implications and possibilities
+
 I have often wondered what this is, both as a concept and as a project. The handful of people who have indulged me in conversation about this concept have asked what any of this means, or what it is for, or how it can be used. 
 
 The simplest answer that comes to mind is to try to somehow internalize that Personal reality and Shared reality don't always have the same rules. Not all Shared realities have the same rules either. Learning what the rules are in any particular Personal or Shared reality can empower an individual to enact change in Reality. 
@@ -16,16 +18,7 @@ Mechanisms which modify Personal reality without any empirically observable side
 
 To me, concepts like morals or qi are similar to concepts like laws or economics. They are real, no doubt. Humans can interface with these concepts to modify Reality. The ways in which these concepts can and do affect any individual's Personal reality or any group's Shared reality varies depending on the particular concept, the way an individual or group understands and applies the concept, and the ways that concept interacts with all other aspects of an individual's Personal reality or a group's Shared reality. 
 
-That leads to two questions: one of awareness, and one of choice. 
+## Practical applications
 
-First, what mechanisms, tools, concepts, etc. that can shape Reality are you, who you call I, willing to admit actually do shape Reality? (Curating experiences, examining/recreating narratives, adopting/adhering to sensemaking systems, modes of expression/communication)
-
-Second, what can you, or we, do about that? What should we do about it?
-
-The first question can be challenging. The second even more so.  
-
-## Opinion
-
-
-
+## Editorial
  
