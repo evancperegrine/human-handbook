@@ -15,3 +15,10 @@ Shared reality can also be formed from interactions that are complex, obvious, a
 
 ## Communication and culture
 
+##Community
+
+##Family
+
+##Culture
+
+###Overculture

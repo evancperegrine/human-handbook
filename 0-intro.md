@@ -19,9 +19,26 @@ A few of the transitions that are defining this phase shift include:
 
 ## Climate
 
+The biosphere is changing as a result of large-scale human activity. Adapting to these changes is the largest challenge our species has ever faced. Most other large mammalian species in Earth's history have gone extinct in the face of drastic environmental changes. The odds are against us. For all of the discussion about how to limit or mitigate these changes to our environment, the reality remains that by the end of the century, the biosphere will have significantly changed as compared to the glacial environment in which we colonized the planet. We may deny the tide, but it will come in regardless.   
+
+Humans can and will occupy all habitable niches in this changing environment as long as we can. However, it is important to realize that global resources like the atmosphere, oceans, forests, and farmland are are under no obligation to remain habitable for humans. In the long term, the only economic and societal models which enable the long term survival of the human species are those in which human prosperity and progress enhance the habitability of Earth for humans. All economic and societal models that are based on extraction, exploitation, and the degradation of the biosphere will someday end in ruin.
+
 ## Energy
 
 ## Money
+
+Right now we're operating in an economic system that has abstracted the relationship between value and money to an insane degree. The basic purpose of money is to create a medium for value exchange, but the way our economic and financial system is set up, that relationship has been essentially destroyed.
+
+In an ideal world, money is used as a way to quantize value and cost. So for example, assume I have something that is valuable, like a pile of wood, and I want to exchange some of that wood for some sheep. Rather than figuring out exactly how much wood I need to trade for the sheep I want, I convert the wood into money, and then use the money to buy the sheep. 
+
+But this example is only applicable for things that 1: have value, and 2: can be monetized. However, currently there are many things that have value but are not monetized, like childcare. Caring for one's own child is valuable, both on an individual level and on a societal level, but it is not monetized. This effectively makes childcare worthless, because it is literally unaccounted for in our primary means of value exchange.
+
+Of course, because the price of caring for one's own child is 0, any attempt to exchange the value of child care (or senior care) between people will assume that anyone doing that work isn't doing much of value at all.
+
+There are also things that are monetized, but have no value. Anyone holding another person's debt or engaging in high frequency stock trading can end up with quite a lot of money without creating or contributing anything of value.
+
+There is a similar problem in our current system between cost and monetization. Energy generation has a cost, and some of those costs are monetized: the inputs, installation, maintenance, etc required are monetized. But other costs, like the waste products of that energy production, are not monetized. Dumping coal slurry into a river is costly but because that cost is not monetized, our economic system acts like it doesn't exist.
+
 
 ## Work
 
