@@ -1,35 +1,50 @@
-# An outline for A Handbook for Humans
-
 - Introduction
-  - The phase shift
-  - Purpose
-  - Metaphor/language disclaimer
-
+	- Mind as technology
+	- The phase transition
+		- Energy
+		- Information
+		- Climate
+		- Cost, value, labor, and capital
+		- Governance
+	- Assumptions about Reality
+		- Energy and Information
+		- Personal reality and Shared reality
+- Models and metaphors
+	- Individuals, groups, and systems
+		- Micro-macro
+		- Coherence and decoherence
+		- Algorithmic sensemaking/decision making
+	- Standing waves
+	- Loops
+	- Probability cones
+	- Consciousness and unconsciousness
+		- Weights
+		- Backpropagation
 - Personal reality
-  - Definition
-  - Standing waves and probability cones
-  - Feedback loops and consciousness/awareness
-
-- Components of Personal reality
-  - Basic human experience
-  - Individual experience
-  - Narrative
-  - Identity
-  - Sensemaking
-  - Desires and dreams
-  - Expression
-
-- Shared reality
-  - Definition (overlap)
-  - Empiricism and reality
-  - Communication and culture
-
-- Mechanics of Shared reality
-  - Direct interactions, indirect interactions, and abstract interactions
-  - Coordination (by degrees)
-  - Conflict (by degrees)
-
-- Peregrine amendment
-  - Implications and possibilities
-  - Practical applications
-  - Editorial
+	- Applying the models
+	- Basic human experience
+	- Individual experience
+	- Narrative
+	- Identity
+	- Sensemaking
+	- Desires and dreams
+	- Expressions
+- Shared Reality
+	- Emergent property of overlapping Personal reality
+		- Culture and overculture
+		- Family and belonging
+		- Self and groups
+	- Empiricism and objectivity
+	- Consensus and coordination
+	- Interactions
+		- Direct
+		- Indirect
+		- Abstract
+	- Tribes
+	- Globalism
+- Conclusions
+	- The information stream and probability cones
+	- Practical applications of nonempiricism
+	- Adapting for the Anthropocene
+		- Identity and belonging in the global civilization
+		- Anthropocentric biosphere

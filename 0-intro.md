@@ -25,13 +25,27 @@ Humans can and will occupy all habitable niches in this changing environment as 
 
 ## Energy
 
-## Money
+Presently, global fossil energy consumption (coal, oil, and gas) is about 443 billion, 333 million, 333 thousand, 333 gigajoules per year, or about 130,000 terawatt hours. Given that there is roughly 6 gigajoules of energy in a standardized barrel of oil, conservatively, the world as we know it is currently riding on a the roaring fires of roughly 10 barrels of oil per person per year. Every year since roughly the 1930s, the global average amount of fossil energy it takes to extract more fossil energy increases. The more fuel we use to propel our civilization, the more fuel we need to stay in the same place.
+
+This energy powers everything, from the movement of goods and people, to the production of food and goods, to the value and movement of currency. There is no known way of sustaining the networks we have created around this flow of energy without maintaining the flow of energy. At our current trajectory, this flow of energy will raise the global average temperature by about 4 degrees Celsius. 
+
+Our system is burning up. The fires, literal and metaphorical, are spreading. If we cannot find a way to sustain our networks without this energy, they will burn away, and so may we. 
+
+Doing this requires fundamentally shifting the very foundation of the movement of goods and people, the production of food and goods, and the value and movement of currency. This extract/ship/burn model of energy must be replaced by a generate/transmit/charge model of energy. We must learn to sustain ourselves on living energy instead of fossil energy, lest we become fossils ourselves.
+
+This transition is ongoing, and will continue until our systemic foundations shift to a new stability. Our quest is to harness the energy of the stars, including our own star. Fusion, solar, and wind will replace oil, coal, and gas this century as the engines of human organization. 
+
+
+
+ 
+
+## Cost, value, labor, and capital
 
 Right now we're operating in an economic system that has abstracted the relationship between value and money to an insane degree. The basic purpose of money is to create a medium for value exchange, but the way our economic and financial system is set up, that relationship has been essentially destroyed.
 
 In an ideal world, money is used as a way to quantize value and cost. So for example, assume I have something that is valuable, like a pile of wood, and I want to exchange some of that wood for some sheep. Rather than figuring out exactly how much wood I need to trade for the sheep I want, I convert the wood into money, and then use the money to buy the sheep. 
 
-But this example is only applicable for things that 1: have value, and 2: can be monetized. However, currently there are many things that have value but are not monetized, like childcare. Caring for one's own child is valuable, both on an individual level and on a societal level, but it is not monetized. This effectively makes childcare worthless, because it is literally unaccounted for in our primary means of value exchange.
+But this example is only applicable for things that 1: have value, and 2: can be monetized. However, currently there are many things that have value but are not monetized, like childcare. Caring for one's own child is valuable, both on an individual level and on a societal level, but it is not monetized. This effectively makes effective childcare worthless, because it is literally unaccounted for in our primary means of value exchange.
 
 Of course, because the price of caring for one's own child is 0, any attempt to exchange the value of child care (or senior care) between people will assume that anyone doing that work isn't doing much of value at all.
 
@@ -40,7 +54,7 @@ There are also things that are monetized, but have no value. Anyone holding anot
 There is a similar problem in our current system between cost and monetization. Energy generation has a cost, and some of those costs are monetized: the inputs, installation, maintenance, etc required are monetized. But other costs, like the waste products of that energy production, are not monetized. Dumping coal slurry into a river is costly but because that cost is not monetized, our economic system acts like it doesn't exist.
 
 
-## Work
+## Information
 
 ## Governance
    
