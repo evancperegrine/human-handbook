@@ -1,10 +1,26 @@
+# Mind is a technology
+
+Mind is a technology. Like any technology, there are types and states of mind that are suited for some tasks but not for others. Similarly, there are types and states of mind that are more suited for some environments, goals, etc. than others. Put another way, some types and states of mind can be very effective and beneficial in some subsets of Reality, but are ineffective and detrimental in other subsets of Reality. For example, someone who is very logical and mathematically minded might find it difficult to understand other people, who often act illogically. Similarly, someone who feels their way through the world and can connect very intimately with people might find it difficult to understand firmware code, which always acts logically. 
+
+Humans can change their minds in various ways, to various degrees, and for various purposes. This can be done consciously or unconsciously. This project is an attempt to change your mind. As we have seen, this is a difficult thing to do in text. But I'm going to give it a shot because if we as a species don't figure out how to do this, this network we have created that we don't fully understand will collaborate with this biosphere we live in that we don't fully understand to kick us in ways that result in catastrophic population crashes and the potential extinction of our species. 
+
+We cannot Tweet our way out of this situation. 
+
+My ask of you, reader, is both simple and difficult. It is this: 
+
+Start here. 
+
+Apply your normal experiences and decision making processes to everything I write here. This, all of this, this entire Handbook, is one idea. It is a definition of a place to start. Grok it as a sum, base state of mind. If we accept these concepts, which I will attempt to describe as clearly as I can, does it empower us in any way? Would grokking this one complex, difficult mind state help us understand, predict, or solve any problems or patterns that currently seem too complex or difficult to solve or predict? I argue it does, both on an individual level and a group level.
+
+This is a full stack foundation. It is one idea, and describing it will take a lot of words. If I am to describe it at all, I will have to be judicious with my words and word choices. This is not light reading. If you do read this, I hope you find more questions than answers within, but I hope those questions guide you to understanding and empowerment, however that looks for you. I hope this one ping of noise in an ocean of noise finds some arbitrary individual out of our current billions who can decode it for the signal I intend it to be.
+
+I hope this unto the death of the sun. 
+
 # The phase transition
 
 The world is currently going through a phase transition. Humans are currently living through a widespread and foundational transition in how we live, organize, sustain, and understand ourselves and the world around us. Technological advances in computing, biomedical science, robotics, materials science, data science, and energy (among other fields) have exponentially increased our capacities and options to manipulate and control the world within a few decades. Alongside this massive technological transition, the biosphere is undergoing changes at a similar scale. 
 
 This exponential growth in power and rapidly changing environment has and will continue to outpace the models, methods, and mechanisms that legacy cultures and institutions use to create consensus and incite constructive action. Nevertheless, these changes will continue. 
-
-The powers we have gained and will gain make possible a future that has the potential to make all of the greatest achievements in all of our greatest myths seem like trivialities compared to the world we could experience. At the same time, both the powers we have obtained and the side effects of their use threatens to bring all we have to ruin. 
 
 As humans, we have a unique ability to adapt to changes in our environment within a single generation. Unlike other animals that are slave to instinct and genetics, we have some limited ability to self-select for adaptive traits and opt out of deleterious traits. What is adaptive and what is deleterious can be dependent on an individual and their particular environment, but accurately perceiving ones environment is a necessary precondition to adopting adaptive traits. This section briefly describes a few of the large scale changes that we as a species must adapt to. 
 
@@ -13,8 +29,8 @@ The transitions described here are inevitable, one way or another. Whether we ac
 A few of the transitions that are defining this phase shift include:
 * Climate change, marked by the transition from the Holocene to the Anthropocene
 * Energy production and consumption from fossil fuels to renewable electricity
-* Reassessment of the monetary representations of cost and value
-* Rebalancing of labor and capital as automation, artificial intelligence, and robotics decouple labor and production
+* The rebalancing and reevaluation of cost, value, labor, and capital as the effects of automation, artificial intelligence, robotics, and environmental factors disrupt traditional capitalist and state economies
+* The application of informational technologies from a means of measuring and tracking the world we live in to a means of directly manipulating Reality
 * Rebalancing governance and sovereignty among individuals, nation-states, and nonhuman legal persons
 
 ## Climate
@@ -56,8 +72,21 @@ There is a similar problem in our current system between cost and monetization. 
 
 ## Information
 
+Human knowledge about most scientific and esoteric disciplines has sufficient depth and breadth that few if any individuals have a complete and detailed understanding of every aspect of any given discipline. Individuals and communities who push the boundaries of understanding and engineering in any given discipline may have difficulty communicating their knowledge of that discipline to individuals and communities who have not studied the expanse of that discipline as thoroughly.
+
+Presently, various layers of human organization are built by, around, and for those individuals and communities who are “deep in the well” to communicate information between various disciplines and laypersons. This exchange of information creates interdisciplinary studies, which themselves deepen and broaden the sum human knowledge of the aspects and subsets of Reality.
+
+As the total depth and breadth of knowledge in any particular scientific or esoteric discipline increases, advancing the boundaries of that discipline requires ever more specialized individuals using ever more advanced methods. Individuals who are “outside the well” of any given discipline may find that information communicated from the leading edge of a discipline acquires an unparsable amount of noise by the time the information reaches them. Similarly, as scientific and esoteric disciplines communicate ever-increasing amounts of information, the ratio of total signal to total noise that any given individual is exposed to continues to decrease.
+
+As knowledge of Reality becomes more specialized and total human knowledge increases, ever more advanced manipulations and applications of information become available to individuals and organizations. Various individuals and organizations have already begun to use applications of this technology to generate and manipulate various aspects of Reality for various purposes, including using information to create political, economic, and social conditions that differentially advantage particular individuals and organizations. As these technologies become more powerful and pervasive, individuals and organizations that have greater capacities to parse their available information streams and meaningfully apply insights from that information in various domains will have increasingly greater capacities to influence Reality.
+
+
+
+
 ## Governance
-   
+
+ 
+	
 
 Whatever the specific path forward from here might be, we must update the models, mechanisms, and methods we use to navigate the world. One very basic truth that I would like to propose is this:  
 

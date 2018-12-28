@@ -1,4 +1,4 @@
-# Personal reality
+# Models and metaphors 
 
 ## Definition 
 
